@@ -1,8 +1,8 @@
-node_modules/
-allure-report/
-allure-results/
-playwright-report/
-test-results/
-*.png
-state.json
-temp_explore.js
+# node_modules/
+# allure-report/
+# allure-results/
+# playwright-report/
+# test-results/
+# *.png
+# state.json
+# temp_explore.js
